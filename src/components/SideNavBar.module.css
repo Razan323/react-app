@@ -1,0 +1,32 @@
+.first_element {
+  top: 31px;
+  left: 18px;
+  width: 167px;
+  height: 137px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 26px #0000001c;
+  border-radius: 5px;
+  opacity: 1;
+}
+.second_element {
+  top: 212px;
+  left: 60px;
+  width: 78px;
+  height: 82px;
+  opacity: 1;
+}
+.third_element {
+  top: 337px;
+  left: 67px;
+  width: 66px;
+  height: 85px;
+  opacity: 1;
+}
+.fourth_element {
+  top: 465px;
+  left: 44px;
+  width: 112px;
+  height: 74px;
+  opacity: 1;
+}
+

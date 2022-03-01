@@ -1,0 +1,18 @@
+ .col {
+    top: 0px;
+    left: 0px;
+    width: 201px;
+    height: 1080px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 26px #00000017;
+    opacity: 1;
+} 
+.container {
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 1080px;
+    background: #FCFCFC 0% 0% no-repeat padding-box;
+    opacity: 1;
+    
+}  
